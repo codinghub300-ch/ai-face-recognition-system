@@ -93,3 +93,18 @@ Allows users to register and save a new face into the system database.
 
 ```bash
 pip install opencv-python deepface numpy customtkinter pillow
+
+```
+
+---
+
+<div align="center">
+
+## 💙 Developed by Coding Hub
+
+Advanced Computer Vision & Face Recognition System
+
+© 2026 Coding Hub. All Rights Reserved.
+
+</div>
+
